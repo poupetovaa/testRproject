@@ -16,6 +16,6 @@ What is the ultimate answer?
 ## Visualization
 ```{r}
 print("Hello, welcome")
-plot((1:100)^4)
+plot((1:150)^6)
 ```
 
