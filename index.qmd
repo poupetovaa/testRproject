@@ -1,0 +1,21 @@
+---
+title: "Great test project"
+author: "Bety"
+format: html
+---
+
+
+## Life and stuff
+
+What is the ultimate answer?
+
+```{r}
+21 + 21
+```
+
+## Visualization
+```{r}
+print("Hello, welcome")
+plot((1:100)^4)
+```
+
